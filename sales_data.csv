@@ -1,0 +1,8 @@
+OrderID,Product,Category,Price,Quantity,Region
+101,Laptop,Electronics,60000,2,North
+102,Mobile,Electronics,20000,3,South
+103,Headphones,Accessories,2000,5,North
+104,Laptop,Electronics,60000,1,East
+105,Mouse,Accessories,,4,West
+106,Mobile,Electronics,20000,2,South
+107,Keyboard,Accessories,1500,3,East
